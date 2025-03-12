@@ -24,7 +24,7 @@ int main(){
 
     //Estado
     printf("Primeira Carta:\n\nPor favor, insira uma letra para o seu Estado: \n");
-    scanf("%s", &Estado1);
+    scanf("%s", &Estado1); 
 
     //Codigo
     printf("Agora insira um codigo para a carta: \n");
