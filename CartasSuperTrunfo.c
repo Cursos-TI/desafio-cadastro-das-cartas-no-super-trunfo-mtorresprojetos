@@ -35,7 +35,7 @@ int main(){
     scanf("%s", &Cidade1);
 
     //População
-    printf("Insira o numero da população: \n");
+    printf("Insira a quantidade populacional: \n");
     scanf("%d", &Populacao1);
 
     //Area(Territorio)
@@ -77,7 +77,7 @@ int main(){
     scanf("%s", &Cidade2);
 
     //População
-    printf("Insira o numero da população: \n");
+    printf("Insira a quantidade populacional: \n");
     scanf("%d", &Populacao2);
 
     //Area(Territorio)
